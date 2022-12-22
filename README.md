@@ -19,8 +19,10 @@ The Jefferson county had a total of 38,855 votes, which is 10.5% of the total vo
 Denver had the largest number of votes, with 306,055 votes resulting in nearly 83% of the total number of votes.
 ---
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-
+Charles Casper Stockhom had 85,213 votoes, which is exactly 23% of the total number of votes in this election. Diana DeGette had 272,892 votes, which is 73.8% of the total votes. Raymon Anythong Doane had 11,606 votes, leaving him with only 3.1% of the votes.
+---
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+With 272,892 (73.8) votes, Diana DeGette is the winning candidate for this election.
 ---
 ## Summary
 " In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
