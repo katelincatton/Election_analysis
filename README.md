@@ -21,4 +21,7 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 ---
 ## Summary
 " In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
+---
+This data examines a simple csv file containing the votes for this specific election, however, this code can be manipulated in a way where it could work for any future elections with different counties and candidates. This code can read a different set of election results(if columns are the same) by just changeing the path of where the new code is being loaded. This line of code can be found in the very beginning of the code (see image). 
+---
+By reading in the apporiate election data (csv file), the code will create a list of the counties and candidates in the data set and begin to start counting votes. New counties and candidates will be "appended" to the lists. Another example of how this code could be modified is by adding additional data to the csv, say for example States. The code can add a new variable that counts the total number of votes and percentages each state. The rest of the code will run the analysis as normal and print out the count of percentage of each county (and state for this example) and candidate like we just witnessed with the original dataset.
